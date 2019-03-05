@@ -1,2 +1,2 @@
 # conf
-The config files of software
+The config files of some softwares
