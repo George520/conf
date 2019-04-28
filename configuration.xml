@@ -1,0 +1,15 @@
+﻿<Configuration>
+  <Add Channel="Broad">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="MatchOS" Fallback="zh-cn" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+    </Product>
+  </Add>
+</Configuration>
